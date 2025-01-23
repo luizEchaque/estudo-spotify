@@ -2,7 +2,7 @@
 
 Este projeto é uma réplica do site do Spotify, desenvolvida como parte de um estudo para aprender e praticar as tecnologias de HTML, CSS e JavaScript. O objetivo é recriar a interface do Spotify, com foco no layout.
 
-![Captura de Tela do Projeto](img/captura.png)
+![Captura de Tela do Projeto](https://github.com/luizEchaque/estudo-spotify/blob/main/Spotify%20estudo/img/Screenshot_1.png)
 
 ## Tecnologias Utilizadas
 - HTML5
