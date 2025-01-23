@@ -29,4 +29,4 @@ Este projeto é uma réplica do site do Spotify, desenvolvida como parte de um e
 ## Contato
 Você pode me encontrar nas redes sociais:
 - [LinkedIn](https://www.linkedin.com/in/luizechaque)
-- [E-mail](luizechaque@gmail.com)
+- E-mail: luizechaque@gmail.com
